@@ -53,6 +53,10 @@ Una guía paso a paso para crear un loop LoFi en BRIXEQ en un solo compás:
 
 Verla online: https://alejandrodiazovh.github.io/brixeq-manual/guia-lofi.html
 
+## Créditos
+
+Manual creado a partir del proyecto **BRIXEQ** para TrimUI Brick. El diseño y la documentación originales provienen del repositorio [https://github.com/boorch/brixeq-pak](https://github.com/boorch/brixeq-pak) por **boorch**. Esta adaptación al español y la guía LoFi son obra de **alejandrodiazovh**.
+
 ## Notas
 
 - No usa JavaScript ni recursos remotos: funciona offline.
