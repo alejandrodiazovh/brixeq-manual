@@ -36,7 +36,22 @@ python3 -m http.server 8000
 ```
 index.html   # El manual completo (HTML + CSS embebido)
 README.md    # Este archivo
+guia-lofi.html  # Guía rápida de loop LoFi en español (HTML embebido)
 ```
+
+## Guía LoFi
+
+Una guía paso a paso para crear un loop LoFi en BRIXEQ en un solo compás:
+
+- **BPM:** 72–78 (lento, para que respire)
+- **Shuffle:** 56–60% (groove humano)
+- **Escala:** Re menor natural o Dórico
+- **Patrón:** Bombo en pasos 0·6·10, caja con Snap, charles en pasos pares, acordes Re m9 (paso 0) / Sol m9 (paso 8), bajo Re3/Sol3
+- **Filtro:** Hacia abajo (LP) en bombo y acordes; apertura media en charles
+- **Selleo:** `R3` → Delay ping-pong 1/8 + Reverb sala media, Sidechain desde T1 (bombo)
+- **Variaciones:** Copiar patrón a otra ranura (`R1+A`, `R1+B`) y crear variación B en escena distinta (`B` en la tira inferior)
+
+Verla online: https://alejandrodiazovh.github.io/brixeq-manual/guia-lofi.html
 
 ## Notas
 
